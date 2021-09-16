@@ -1,0 +1,67 @@
+sw_volume: 100
+audio_device_state:1:default detected output
+state: stop
+current: 7
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:hitman/Agent and Handler.mp3
+1:hitman/World of Assassination.mp3
+2:hitman/Showstopper.mp3
+3:hitman/Codename IAGO.mp3
+4:hitman/The Key To Mastery.mp3
+5:hitman/Escalation.mp3
+6:hitman/What Hides Beneath.mp3
+7:hitman/Flipside of the Coin.mp3
+8:hitman/Field Duty.mp3
+9:hitman/Plan B.mp3
+10:hitman/Situs Inversus.mp3
+11:hitman/Enemy of My Enemy.mp3
+12:hitman/Mission Accomplished 2016.mp3
+13:hitman/Hitman 2016 Main Theme.mp3
+14:hitman/Agent and Handler.mp3
+15:hitman/The Story So Far.mp3
+16:hitman/Blank Cheque.mp3
+17:hitman/Race Day in Miami.mp3
+18:hitman/The Finish Line.mp3
+19:hitman/Santa Fortuna Blues.mp3
+20:hitman/Three-Headed Serpent.mp3
+21:hitman/Untouchable.mp3
+22:hitman/Losing Control.mp3
+23:hitman/Mumbai Maelstrom.mp3
+24:hitman/Chasing a Ghost.mp3
+25:hitman/Suburbia Retired.mp3
+26:hitman/Another Life.mp3
+27:hitman/Golden Handshake.mp3
+28:hitman/Maldivian Haven.mp3
+29:hitman/The Last Resort.mp3
+30:hitman/Approaching Storm.mp3
+31:hitman/Death Awaits.mp3
+32:hitman/Best-laid Plans.mp3
+33:hitman/Purpose Theme.mp3
+34:hitman/Sceptres of Dubai.mp3
+35:hitman/On Top of the World.mp3
+36:hitman/The Man Behind the Curtain.mp3
+37:hitman/End of the Line.mp3
+38:hitman/Death in the Family.mp3
+39:hitman/Tears of Thornbridge Manor.mp3
+40:hitman/You Owe Him Nothing.mp3
+41:hitman/A Cold Open.mp3
+42:hitman/State of Mind.mp3
+43:hitman/Agent of Change.mp3
+44:hitman/Mission Accomplished.mp3
+45:hitman/Chongqing Requiem.mp3
+46:hitman/End of an Era.mp3
+47:hitman/Severing Strings.mp3
+48:hitman/They Would Always Have Mendoza.mp3
+49:hitman/Invitation to Dance.mp3
+50:hitman/The Farewell.mp3
+51:hitman/Necessary Evil.mp3
+52:hitman/In Constant Motion.mp3
+53:hitman/New Deal.mp3
+playlist_end
