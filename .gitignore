@@ -2,3 +2,5 @@ systemd/
 pulse/
 procps/
 TIPP10/
+mpd/pid
+mpd/state
