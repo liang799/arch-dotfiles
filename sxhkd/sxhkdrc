@@ -55,16 +55,15 @@ XF86MonBrightnessDown
 
 # Screenshot
 XF86Launch1
-	ICON1=/usr/share/icons/HighContrast/16x16/apps/applets-screenshooter.png; \
-	scrot ~/Pictures/screenshots/%Y-%m-%d-%T\
-	-screenshot.png; \
-	dunstify -u low -i $ICON1 \
-	Screenshot \
-	"Successfully captured screen"
+	$HOME/.config/sxhkd/scripts/screenshot.sh
 
 # misc
 XF86ScreenSaver
 	xscreensaver-command -lock	
+
+# Trackpoint
+XF86TouchpadToggle
+	$HOME/.config/sxhkd/scripts/nippleInput.sh
 
 #
 # bspwm hotkeys
